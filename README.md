@@ -1,6 +1,7 @@
 # Tattava ChatBot 
 
-This project is a collaborative effort by Deekshita Sriyaa K,
+This project is a collaborative effort by Deekshita Sriyaa K, Deeksha Athreya and Arushi Prakash.
+
 This project was done for the NYD Hackathon 2025 and it implements a semantic search system using FAISS and a pre-trained transformer model to retrieve relevant verses from two sources: the Bhagavad Gita and the Patanjali Yoga Sutras. It uses embeddings to compare the semantic similarity of a query with the verses and incorporates a distance threshold to handle inappropriate or irrelevant queries.
 
 ## Features
