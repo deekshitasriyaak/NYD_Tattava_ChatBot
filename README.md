@@ -33,5 +33,3 @@ The **retrieve_and_answer(query)** function processes user queries by determinin
 3. Download the CSV files from the folder **'Dataset'** and change the path under **'Load Dataframes'** section.
 4. Run all the cells-> Runtime > Run All
 Note: All the installs and import have been made compatible for the code to run in Google Colab, please make the necessary environment changes.
-
-
